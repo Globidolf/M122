@@ -7,6 +7,7 @@ Automatisieren mit Skripten
  - Team: 
     - Silvan Pfister
     - Michael De Los Santos
+    - David Bütikoffer
 
 ### Anforderungen
 
