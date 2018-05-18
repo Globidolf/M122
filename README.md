@@ -1,18 +1,3 @@
-# M122
-Automatisieren mit Skripten
+This is a set of scripts to manage automated upload/downlaod of files and folders.
 
-## LB 1
-
- - Themenwahl: Networking (Down- & Upload) von Dateien / Ordnern und Synchronisation
- - Team: 
-    - Silvan Pfister
-    - Michael De Los Santos
-    - David Bütikofer
-
-### Anforderungen
-
- SPECS HERE
- 
-### Lösungsdesign
-
-later
+For more details see the [wiki](https://github.com/Globidolf/M122/wiki#lb-1)
