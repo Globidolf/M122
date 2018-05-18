@@ -11,6 +11,8 @@ Automatisieren mit Skripten
 
 
 ## LB 1 
+[Branch Link](https://github.com/Globidolf/M122/tree/LB1)
+
 50%
 
 ## LB 2
