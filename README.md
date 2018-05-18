@@ -1,7 +1,7 @@
 # M122
 Automatisieren mit Skripten
 
-##LB 1
+## LB 1
 
  - Themenwahl: Networking (Down- & Upload) von Dateien / Ordnern und Synchronisation
  - Team: 
