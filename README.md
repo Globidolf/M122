@@ -1,17 +1,17 @@
 # M122
 Automatisieren mit Skripten
 
-## Infos
+##LB 1
 
- - 8 Tage ( 32 Lektionen? )
- - Tag 9 = Sporttag
+ - Themenwahl: Networking (Down- & Upload) von Dateien / Ordnern und Synchronisation
+ - Team: 
+    - Silvan Pfister
+    - Michael De Los Santos
 
- - Powershell (| LinuxBash | PHP | Python | Perl)
- - Task Scheduler
+### Anforderungen
 
+ SPECS HERE
+ 
+### Lösungsdesign
 
-## LB 1 
-50%
-
-## LB 2
-50%
+later
