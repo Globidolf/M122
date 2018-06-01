@@ -25,4 +25,4 @@ foreach ($sub in Get-ChildItem $source -Directory ) {
 	$log = "$log`n$(Recourse-ChangeLog-Folders $sub)"
 }
 
-$log > changelog.txt
+$log > .changelog
