@@ -16,10 +16,10 @@ function Recourse-ChangeLog-Folders ([string]$folder) {
 	return $log
 }
 
-
 foreach ($file in Get-ChildItem $source -File ) {
 	$log = "$log`n`"$file`" $(Get-Date $file.LastWriteTime -Format $dateFormat )"
 }
+
 foreach ($sub in Get-ChildItem $source -Directory ) {
 	$log = "$log`n`"$sub`"`nSUB$(Recourse-ChangeLog-Folders "$source\$sub")`nEND"
 }
